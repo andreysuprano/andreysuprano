@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PB Tech.
+- 🔭 I’m currently working on Paraná Banco Tech.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Payments and Devops.
 - 💬 Ask me about Tests(QA), React Native and Mobile Apps.
