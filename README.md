@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Paraná Banco Tech.🔭 I’m currently working on Paraná Banco TechI’m currently working on Paraná Banco Tech.Tech.🔭 I’m currently working on Paraná Banco TechI’m currently working on Paraná Banco Tech.
+- 🔭 I’m currently working on Paraná Banco Tech.
 - 👯 I’m looking to collaborate on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Payments and Devops.
