@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Embeded Payment Systems. 
+- 👯 I’m looking to collaborate on Wa Automate.
 - 🤔 I’m looking for help with Payments and Devops.
 - 💬 Ask me about Tests(QA), React Native and Mobile Apps.
 - 📫 How to reach me: 83609-100, Brazil.
